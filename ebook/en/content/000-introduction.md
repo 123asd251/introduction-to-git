@@ -40,7 +40,6 @@ Join this developer community, and we can all learn together, build together, an
 
 [Join DevDojo](https://devdojo.com?ref=bobbyiliev)
 
-
 For more information, please visit [https://www.devdojo.com](https://www.devdojo.com?ref=bobbyiliev) or follow [@thedevdojo](https://twitter.com/thedevdojo) on Twitter.
 
 ## Ebook PDF Generation Tool
